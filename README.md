@@ -1,7 +1,7 @@
 # Data Structure Algorithms
 Most Common data structures algorithms - Implemented in Java
 
-the propouse of this project is to teach DS to my students
+the goal of this project is to teach DS to my students
 
 1. Binary Search: A search algorithm that works by repeatedly dividing the search interval in half, and eliminating the half that cannot contain the target value. This algorithm is typically used to search for a target value in a sorted array.
 
